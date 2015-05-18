@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneNoteRepo", "OneNoteRepo\OneNoteRepo.csproj", "{AF3CA390-CE90-41CA-8C7A-C130262513BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneNoteMvcRepo", "OneNoteMvcRepo\OneNoteMvcRepo.csproj", "{8AEC32FE-D6FC-46DD-A1DA-B7FA7E827AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF3CA390-CE90-41CA-8C7A-C130262513BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3CA390-CE90-41CA-8C7A-C130262513BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3CA390-CE90-41CA-8C7A-C130262513BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3CA390-CE90-41CA-8C7A-C130262513BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEC32FE-D6FC-46DD-A1DA-B7FA7E827AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEC32FE-D6FC-46DD-A1DA-B7FA7E827AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEC32FE-D6FC-46DD-A1DA-B7FA7E827AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEC32FE-D6FC-46DD-A1DA-B7FA7E827AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
